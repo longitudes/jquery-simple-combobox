@@ -3,5 +3,5 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  api.add_files('jquery.scombobox.min.js', 'client');
+  api.add_files('js/jquery.scombobox.min.js', 'client');
 });
