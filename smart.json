@@ -1,8 +1,8 @@
 {
   "name": "jquery-simple-combobox.js",
   "description": "A jQuery combobox plugin. You can use it for autocomplete (search, etc).",
-  "homepage": "https://github.com/jedfoster/Readmore.js",
-  "author": "Jed Foster",
+  "homepage": "https://github.com/ivkremer/jquery-simple-combobox",
+  "author": "Ilya Kremer",
   "version": "",
   "git": "https://github.com/longitudes/jquery-simple-combobox.git"
 }
